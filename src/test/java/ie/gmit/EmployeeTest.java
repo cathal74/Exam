@@ -1,4 +1,7 @@
 package ie.gmit;
+//Cathal Walsh
+//Group C
+///06.06.2020
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
